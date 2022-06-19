@@ -41,7 +41,7 @@ My Specialties includes quick learning new skills and problem solving.
 </p>
 
 📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&theme=gotham" alt="Shubham Sharma" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=default" alt="Shubham Sharma" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&theme=gotham" alt="Shubham Sharma" /> -->
 
 ### 📫 [Connect with me](https://www.linkedin.com/in/0xshubhamsharma2022/)<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
