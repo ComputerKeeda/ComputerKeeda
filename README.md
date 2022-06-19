@@ -5,6 +5,10 @@
 I am a pre-final year student at Rungta College of Engineering & Technology ,Behind Nandanvan, Raipur. I like exploring tech and building new stuffs. I love learning new languages and methods through which I can talk to my Computer, Smartphones, Smart Gadgets .... etc.
 
 
+Yeah you can call me a kid but trust me I am the smartest kid you have ever met and if not than I will become one day  
+
+![naruto-uzumaki-believe-it-so-am-I](Assets/naruto-uzumaki-believe-it.gif)
+
 My Specialties includes quick learning new skills and problem solving.
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=790b7611e4d17f0e0041240b4ad93fd94cf4a998b9003ab9&rid=giphy.gif&ct=g" width="500" height="320" />
