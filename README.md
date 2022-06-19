@@ -1,4 +1,4 @@
-# Hello, folks! <img src="./Assets/hi.gif" width="30px">
+# Hello, folks! <img src="./Assets/hi.gif" height="30px">
 
 <br />
 
