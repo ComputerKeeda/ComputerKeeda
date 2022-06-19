@@ -40,22 +40,19 @@ My Specialties includes quick learning new skills and problem solving.
   </div>
 </p>
 
-<div style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-">
-<div style="margin-bottom : 1rem">📈 My Languages status</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerKeeda&layout=compact&border_radius=20&theme=algolia)
-
-📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&hide=issues,prs&theme=algolia&border_radius=20" alt="Shubham Sharma" />
-</div>
-
-
+<p align="center" style="margin-bottom: 1rem">🗣 My Languages status</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerKeeda&layout=compact&border_radius=20&theme=algolia"
+    alt="Shubham Sharma profile language status"
+  />
+</p>
+<p align="center" style="margin-bottom: 1rem">📊 My GitHub Stats</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&hide=issues,prs&theme=algolia&border_radius=20"
+    alt="Shubham Sharma profile status"
+  />
+</p>
 
 ### 📫 [Connect with me](https://www.linkedin.com/in/0xshubhamsharma2022/)<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
