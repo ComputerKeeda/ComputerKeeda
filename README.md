@@ -83,20 +83,20 @@ My Specialties includes quick learning new skills and problem solving.
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=0xShubhamSharma)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ComputerKeeda&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ComputerKeeda&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/0xshubhamsharma) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/0xshubhamsharma) 
 
 
 
