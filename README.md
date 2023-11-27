@@ -2,10 +2,9 @@
 
 <br />
 
-I am a pre-final year student at Rungta College of Engineering & Technology ,Behind Nandanvan, Raipur. I like exploring tech and building new stuffs. I love learning new languages and methods through which I can talk to my Computer, Smartphones, Smart Gadgets .... etc.
+"I'm Shubham, a full-stack web wizard at Airchains Technology, diving deep into the blockchain realm. Just completed my B.Tech. in CSE from Rungta College of Engineering & Technology, Raipur. 
+I'm not just a tech enthusiast; I'm the architect of cool digital wonders. Whether it's talking to computers, smartphones, or smart gadgets, I'm fluent in the language of innovation. They might call me a kid, but mark my words, I'm on a journey to be the smartest kid you've ever met, and I'll get there one byte at a time. 💻✨"
 
-
-Yeah you can call me a kid but trust me I am the smartest kid you have ever met and if not than I will become one day  
 
 ![naruto-uzumaki-believe-it-so-am-I](Assets/naruto-uzumaki-believe-it.gif)
 
