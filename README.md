@@ -2,8 +2,9 @@
 
 <br />
 
-"I'm Shubham, a full-stack web wizard at Airchains Technology, diving deep into the blockchain realm. Just completed my B.Tech. in CSE from Rungta College of Engineering & Technology, Raipur. 
-I'm not just a tech enthusiast; I'm the architect of cool digital wonders. Whether it's talking to computers, smartphones, or smart gadgets, I'm fluent in the language of innovation. They might call me a kid, but mark my words, I'm on a journey to be the smartest kid you've ever met, and I'll get there one byte at a time. 💻✨"
+I'm Shubham, a Tech wizard at Airchains Technology, diving deep into the blockchain realm. Just completed my B.Tech. in CSE from Rungta College of Engineering & Technology, Raipur. <br/>
+
+I'm not just a tech enthusiast; I'm the architect of cool digital wonders. Whether it's talking to blockchain, coding, or smart gadgets, I'm fluent in the language of innovation. They might call me a kid, but mark my words, I'm on a journey to be the smartest kid you've ever met, and I'll get there one byte at a time. 💻✨
 
 
 ![naruto-uzumaki-believe-it-so-am-I](Assets/naruto-uzumaki-believe-it.gif)
