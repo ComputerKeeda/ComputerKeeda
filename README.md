@@ -23,7 +23,7 @@ I'm always open to discussing new projects, tech ideas, or potential collaborati
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Shubham Sharma](https://www.linkedin.com/in/0xshubhamsharma2022/)
+- LinkedIn: [Shubham Sharma](https://www.linkedin.com/in/0xshubhamsharma/)
 - Email: [shubham@airchains.io](mailto:shubham@airchains.io)
 
 ## 📊 My GitHub Stats
