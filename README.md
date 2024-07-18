@@ -25,6 +25,7 @@ I'm always open to discussing new projects, tech ideas, or potential collaborati
 
 - LinkedIn: [Shubham Sharma](https://www.linkedin.com/in/0xshubhamsharma/)
 - Email: [shubham@airchains.io](mailto:shubham@airchains.io)
+- calendly: [30min meeting](https://calendly.com/shubham-airchains/30min)
 
 ## 📊 My GitHub Stats
 
