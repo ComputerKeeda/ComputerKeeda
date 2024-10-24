@@ -1,18 +1,19 @@
 # Hello, I'm Shubham Sharma! 👋
 
-Welcome to my GitHub! I'm a seasoned blockchain developer at Airchains Technology, where I specialize in creating and deploying innovative solutions. Having honed my skills and gained substantial experience in the blockchain realm, I am now focused on building a community where knowledge sharing and collaborative development are at the forefront.
+Welcome to my GitHub! I'm a blockchain developer at Airchains Technology, with a passion for building innovative decentralized solutions. I specialize in blockchain technology, smart contracts, cryptography, and am currently exploring the integration of Fully Homomorphic Encryption (FHE) for secure computation on encrypted data.
 
 ## 🚀 Let's Build Together
 
-I'm passionate about leveraging blockchain technology to solve real-world problems and I believe in the power of collaboration to achieve extraordinary results. Whether you're a beginner seeking guidance or an expert looking to bounce ideas, I'm here to collaborate, learn, and grow together.
+I'm enthusiastic about using blockchain to solve real-world challenges, and I believe in collaborative problem-solving. Whether you're a blockchain beginner or an expert, let's work together to drive impactful projects forward.
 
 ## 🧰 Technologies I Love
 
-- Blockchain
-- Smart Contracts
-- Cryptography
-- Frontend and Backend Web Development
-- Mobile App Development
+-   Blockchain Development
+-   Fully Homomorphic Encryption (FHE)
+-   Smart Contracts (Solidity, CosmWasm)
+-   Cryptography
+-   Frontend & Backend Web Development
+-   Mobile App Development
 
 ## 💬 Connect and Collaborate
 
