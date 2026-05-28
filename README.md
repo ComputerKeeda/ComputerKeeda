@@ -38,18 +38,6 @@ Previously, I was the **Tech Lead & Backend Developer** at **Airchains**, where 
 
 ---
 
-### 📊 GitHub Stats & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComputerKeeda&show_icons=true&theme=algolia&border_radius=10" alt="Shubham's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerKeeda&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 *   **LinkedIn**: [linkedin.com/in/0xshubhamsharma](https://linkedin.com/in/0xshubhamsharma)
