@@ -1,60 +1,40 @@
 # Hello, I'm Shubham Sharma! <img src="Assets/hi.gif" height="32px">
 
-Welcome to my GitHub profile! I am a **Blockchain R&D Engineer** at **Zeeve** (Web3 Infrastructure Platform) and formerly at **Airchains Technology**. I specialize in blockchain architecture, custom Cosmos SDK module development, Fully Homomorphic Encryption (zkFHE), and building production-ready decentralized protocols.
+I am a **Senior Golang Engineer & Blockchain Infrastructure Developer** at **[Zeeve](https://www.zeeve.io/)** (joined February 2026), an enterprise-grade Blockchain Infrastructure-as-a-Service platform offering Rollups-as-a-Service (RaaS) and managed nodes across 30+ protocols.
 
-With a background spanning core protocol engineering, validator automation, and web3 full-stack development, I love turning complex cryptography and ledger logic into real-world decentralized solutions.
-
----
-
-### 🚀 What I Do
-
-- **Blockchain & Consensus Architecture**: Building custom Cosmos SDK chains, integrating Ethermint (Evmos-style) crypto codecs/address schemes, and setting up secure validator node infrastructures.
-- **DeFi & Smart Contracts**: Designing and implementing event-based binary options markets, optimistic/trusted provider oracle settlements, and cross-chain execution logic.
-- **Privacy-Preserving Cryptography**: Working with Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs, and privacy-focused rollups to enable secure computation on encrypted data.
-- **Developer Experience & UI/UX**: Author of developer utilities, Cosmos-kit dashboards, and VS Code themes (like **Ariv Themes**) optimized for focused coding sessions.
+Previously, I was the **Tech Lead & Backend Developer** at **Airchains** (Oct 2022 – Jan 2026), where I architected Go-based rollup infrastructure, cross-chain bridges (utilizing a Mint & Burn architecture), and settlement layers like the Junction Chain.
 
 ---
 
-### 🛠️ Core Technologies & Tools
+### 🚀 Current Focus & Core Expertise
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong><br/>
-      • Go (Golang) <br/>
-      • TypeScript / JavaScript <br/>
-      • Solidity <br/>
-      • Rust <br/>
-      • Python <br/>
-      • Bash Scripting
-    </td>
-    <td valign="top" width="50%">
-      <strong>Frameworks & Ecosystems</strong><br/>
-      • Cosmos SDK / Tendermint (CometBFT) / Ignite CLI <br/>
-      • CosmWasm <br/>
-      • Next.js / React / Tailwind CSS / shadcn/ui <br/>
-      • Docker / Kubernetes / Terraform <br/>
-      • Node.js / Express.js <br/>
-      • Hardhat / Foundry
-    </td>
-  </tr>
-</table>
+*   **Core Blockchain**: Cosmos SDK, Tendermint, IBC (Inter-Blockchain Communication), EVM Architecture, and Solidity.
+*   **Primary Languages**: Go (Golang) and JavaScript/TypeScript. Also proficient in Rust, C++, and SQL.
+*   **Backend & Systems**: Microservices, gRPC, Event-Driven Architecture, WebSockets, high-concurrency system design, and cloud/orchestration (Docker, Kubernetes, AWS).
+*   **Cryptography**: Shamir's Secret Sharing (designed and built a 2-of-3 threshold Secure Multi-Party KYC System), Elliptic Curve Cryptography (ECC), and Zero-Knowledge (ZK) proofs.
 
 ---
 
-### 🌟 Featured Projects
+### 🏆 Key Achievements & Highlights
 
-#### 🎨 [Ariv Themes](https://github.com/ComputerKeeda/Ariv-Themes)
-A clean, modern, and high-contrast dark theme extension for VS Code (Ariv Dark and Ariv Ocean) designed to reduce eye strain during long coding sessions.
+*   **Invited Judge**: IIT Delhi ECON 2025 Hackathon.
+*   **ETHIndia 2022**: Bounty Winner (built a decentralized communication protocol on EVM).
+*   **Smart India Hackathon (SIH)**: Semifinalist.
+*   **Industry Presence**: Attended Devcon SEA (Bangkok, 2024) and India Blockchain Week.
 
-#### ⚙️ [Cosmos Custom Chain Admin Panel](https://github.com/ComputerKeeda/ADMIN-panel-cosmos)
-A robust Next.js 15 boilerplate for custom Cosmos SDK blockchains. Integrated with Cosmos-Kit and Telescope codegen, featuring module parameter explorers, wallet adapters, and parameter proposal builders.
+---
 
-#### 📡 [Cosmos RPC Endpoint Checker](https://github.com/ComputerKeeda/rpc-checker)
-A high-performance Go-based utility to resolve DNS, verify TCP ports, test JSON-RPC commands (`eth_chainId`, `eth_blockNumber`), and monitor response latency for Web3 RPC infrastructure.
+### 🛠️ Open Source & Developer Tools
 
-#### 📈 [Uniocean Binary Options & Event Markets](https://github.com/ComputerKeeda/uniocean)
-Research, Keeper implementation, and off-chain relayer architecture for settling event-driven binary options markets via trusted and optimistic oracles.
+*   **🎨 [Ariv Themes](https://github.com/ComputerKeeda/Ariv-Themes)**: A custom minimalist developer theme extension published on the VS Code Marketplace, engineered for long, distraction-free coding sessions.
+
+---
+
+### 🎯 2026 Vision & Goals
+
+*   Mastering and deploying advanced enterprise rollup technologies and Rollups-as-a-Service (RaaS).
+*   Expanding my stack into mobile development alongside building high-performance, versatile full-stack blockchain infrastructure.
+*   Maintaining a strong focus on building and configuring minimalist, high-efficiency developer environments.
 
 ---
 
@@ -72,13 +52,11 @@ Research, Keeper implementation, and off-chain relayer architecture for settling
 
 ### 💬 Let's Connect
 
-Let's collaborate on blockchain scaling, FHE research, or tool development!
-
-- **LinkedIn**: [Shubham Sharma](https://www.linkedin.com/in/0xshubhamsharma/)
-- **Email**: [shubham.sharma@zeeve.io](mailto:shubham.sharma@zeeve.io) (Work) / [samwodson@gmail.com](mailto:samwodson@gmail.com) (Personal)
-- **Discord**: `0xshubhamsharma` (Join my [Discord community](https://discord.gg/95svWWFZjd))
-- **Twitter**: [@0xShubhamSharma](https://twitter.com/0xShubhamSharma)
+*   **LinkedIn**: [linkedin.com/in/0xshubhamsharma](https://linkedin.com/in/0xshubhamsharma)
+*   **Email**: [samwodson@gmail.com](mailto:samwodson@gmail.com)
+*   **Discord**: `0xshubhamsharma` (Join my [Discord community](https://discord.gg/95svWWFZjd))
+*   **Twitter**: [@0xShubhamSharma](https://twitter.com/0xShubhamSharma)
 
 ---
 
-✨ *Always learning, always building. One block at a time.* 🚀
+✨ *Simplicity is the ultimate sophistication. Always learning, always building.* 🚀
