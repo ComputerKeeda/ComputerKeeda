@@ -1,8 +1,8 @@
 # Hello, I'm Shubham Sharma! <img src="Assets/hi.gif" height="32px">
 
-I am a **Senior Golang Engineer & Blockchain Infrastructure Developer** at **[Zeeve](https://www.zeeve.io/)** (joined February 2026), an enterprise-grade Blockchain Infrastructure-as-a-Service platform offering Rollups-as-a-Service (RaaS) and managed nodes across 30+ protocols.
+I am a **Senior Golang Engineer & Blockchain Infrastructure Developer** at **[Zeeve](https://www.zeeve.io/)**, an enterprise-grade Blockchain Infrastructure-as-a-Service platform offering Rollups-as-a-Service (RaaS) and managed nodes across 30+ protocols.
 
-Previously, I was the **Tech Lead & Backend Developer** at **Airchains** (Oct 2022 – Jan 2026), where I architected Go-based rollup infrastructure, cross-chain bridges (utilizing a Mint & Burn architecture), and settlement layers like the Junction Chain.
+Previously, I was the **Tech Lead & Backend Developer** at **Airchains**, where I architected Go-based rollup infrastructure, cross-chain bridges (utilizing a Mint & Burn architecture), and settlement layers like the Junction Chain.
 
 ---
 
